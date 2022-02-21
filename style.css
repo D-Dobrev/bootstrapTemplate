@@ -1,0 +1,22 @@
+navbar {
+    position: sticky;
+}
+
+.carouselHeight {
+    min-height: 200px;
+    max-height: 201px;
+    max-width: auto;
+    object-fit: cover;
+}
+.mainSections {
+    margin-top: 80px;
+
+}
+.card-img-top {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+hr {
+    margin-top: 60px;
+}
